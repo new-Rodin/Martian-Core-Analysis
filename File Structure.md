@@ -9,6 +9,8 @@ This repository contains a structured collection of reports, simulations, animat
 - `P and S wave Simulator interactive.mp4`: Interactive P and S wave generator
 - `P and S waves with decay.mp4`: MatplotLib reprentation  of P and S waves with decay
 - `P&S wave Simulation.mp4`:MatplotLib reprentation  of P and S waves
+- `3_dd.ipynb`: Jupyter notebook for the 3d simulation of Mars
+- `Final Render.mp4`: Final 3D render of Mars
 ### 📂 Module_1/ 
 - **Description:** Seismic Wave Theory  
 - `Solution_Module_1.pdf`: Final report
