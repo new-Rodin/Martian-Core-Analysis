@@ -68,7 +68,7 @@ The mainline code calls these functions, rendering rays starting at a specific o
 ### Module 7: Regression Model for Core Radius Prediction
 - **How to Run**: 
     1. Ensure `LSL_models` is in the current directory.
-    2. Run the provided code.
+    2. Run the provided code on VS Code.
     3. The results will be stored in `.csv` files.
 
 ---
@@ -77,6 +77,8 @@ The mainline code calls these functions, rendering rays starting at a specific o
 - **How to Run**: 
     1. Open the file on **Kaggle** and run it directly.
     2. The dataset is publicly available.
+    3. There are four parameters in the `detect_anomalies` function. 1st is file path,2nd is no. of components for KNN,3rd 
+    is no. of epochs for autoencoders and last one is accuracy upto which anomaly has to be detected. 
 
 ---
 
