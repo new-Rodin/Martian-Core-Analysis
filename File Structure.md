@@ -43,7 +43,8 @@ This repository contains a structured collection of reports, simulations, animat
 
 ### 📂 Module_9/ 
 - **Description:** 3D simulation  
-- `module_9_future_scope.pdf`: Final report  
+- `module_9_future_scope.pdf`: Final report
+Final report
 
 ---
 
