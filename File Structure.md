@@ -1,27 +1,27 @@
 Martian Core Analysis/
 │── Module_1/                     # Seismic Wave Theory
-│   ├── module_1_solution.pdf      # Final report
+│   ├── Solution_Module_1.pdf      # Final report
 │   ├── module_1_simulation.mp4    # Animation of wave propagation
 │   ├── module_1_data.csv          # Raw seismic data
 │
 │── Module_2/                     # Seismic Shadow Zones
-│   ├── module_2_solution.pdf
+│   ├── Solution_Module_2.pdf
 │   ├── module_2_seismic_model.png # Seismic shadow zone visualization
 │   ├── module_2_research_notes.txt
 │
 │── Module_3/                     # Snell’s Law at the Core-Mantle Boundary
-│   ├── module_3_solution.pdf
+│   ├── Solution_Module_3.pdf
 │   ├── module_3_refraction_diagram.jpg
 │   ├── module_3_simulation.mp4
 │   ├── module_3_theory.md         # Mathematical derivation details
 │
 │── Module_4/                     # Core Radius Calculation
-│   ├── module_4_solution.pdf
+│   ├── Solution_Module_4.pdf
 │   ├── module_4_density_model.csv # Density estimates of Mars' interior
 │   ├── module_4_plot.png          # Graphical representation of core-mantle density
 │
 │── Module_5/                     # Evidence for a Liquid Core
-│   ├── module_5_solution.pdf
+│   ├── Solution_Module_5.pdf
 │   ├── module_5_wave_velocity.ipynb  # Jupyter notebook for velocity calculations
 │   ├── module_5_simulation.mp4
 │   ├── module_5_notes.docx        # Research notes and explanations
