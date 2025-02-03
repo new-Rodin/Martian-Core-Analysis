@@ -56,12 +56,14 @@ The mainline code calls these functions, rendering rays starting at a specific o
 
 - **Task 2**:
     1. This needs to be run in **VSCode**.
-    2. Download the `LSL_Models` folder into the current directory.
-    3. Modify the **input_folder** and **output_folder** variables as necessary.
-    4. Adjust the **folder_path** to the output folder.
-    5. **Do not modify** the `out_subtends` variable (it stores ray termination points).
-    6. `depthmodels = dataframes` assigns the Martian volume models in **pandas DataFrame format**.
-    7. You can adjust the **range of angles** for initial ray paths or modify the **origin**.
+    2. Download the dataset from second link in  `Datasets` file where there are two links into the current directory.
+    3. Extract the zip file.
+    4. Bring `LSL_Models` in the current directory.
+    5. Modify the **input_folder** and **output_folder** variables as necessary.
+    6. Adjust the **folder_path** to the output folder.
+    7. **Do not modify** the `out_subtends` variable (it stores ray termination points).
+    8. `depthmodels = dataframes` assigns the Martian volume models in **pandas DataFrame format**.
+    9. You can adjust the **range of angles** for initial ray paths or modify the **origin**.
 
 ---
 
