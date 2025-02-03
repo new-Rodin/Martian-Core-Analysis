@@ -63,7 +63,7 @@ This repository contains a structured collection of reports, simulations, animat
 ---
 
 ### Root Files:
-- `README.md`: Project Overview  
+- `README.md`: Documentation to run the code
 - `structure.md`: This file  
 - `.gitignore`: Ignore unnecessary files  
 - `LICENSE`: Open-source license (optional)  
