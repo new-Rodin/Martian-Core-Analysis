@@ -54,4 +54,6 @@ This repository contains a structured collection of reports, simulations, animat
 - `README.md`: Project Overview  
 - `File Structure.md`: This file  
 - `.gitignore`: Ignore unnecessary files  
-- `Datasets.md`: Contains all the datasets used in the project 
+- `Datasets.md`: Contains all the datasets used in the project
+- `46_martian_doc.pdf`: Documentation
+- `final_report(2).pdf`: Final Report
