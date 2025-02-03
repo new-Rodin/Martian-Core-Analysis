@@ -39,12 +39,12 @@ This repository contains a structured collection of reports, simulations, animat
 -  `module_7_code.ipynb`: Code for the obtained data  
 ### 📂 Module_8/ 
 - **Description:** Detecting Anomalies
-- `module-8.ipynb`: Final report for Anomaly deetection
+- `module-8.ipynb`: Final code for Anomaly deetection
 
 ### 📂 Module_9/ 
-- **Description:** 3D simulation  
-- `module_9_future_scope.pdf`: Final report
-Final report
+- **Description:** PINN model  
+- `module-9-final(2).ipynb`
+### Final report
 
 ---
 
