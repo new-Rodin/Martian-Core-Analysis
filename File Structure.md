@@ -4,38 +4,29 @@ This repository contains a structured collection of reports, simulations, animat
 
 ## 📂 Project Root: `Martian Core Analysis`
 
+### 📂 All Simulations/ 
+- **Description:** Contains the simualtions from all modules
+- `P and S wave Simulator interactive.mp4`: Interactive P and S wave generator
+- `P and S waves with decay.mp4`: MatplotLib reprentation  of P and S waves with decay
+- `P&S wave Simulation.mp4`:MatplotLib reprentation  of P and S waves
 ### 📂 Module_1/ 
 - **Description:** Seismic Wave Theory  
-- `Solution_Module_1.pdf`: Final report  
-- `module_1_simulation.mp4`: Animation of wave propagation  
-- `module_1_data.csv`: Raw seismic data  
-
+- `Solution_Module_1.pdf`: Final report
+- `P&S wave solution.py`: Code for the Ideal Visual representation of P and S waves
+- `P&S wave solution with attentuation.py`: Code for the Visual representation of P and s waves with wave decay
 ### 📂 Module_2/ 
 - **Description:** Seismic Shadow Zones  
 - `Solution_Module_2.pdf`: Final report  
-- `module_2_seismic_model.png`: Seismic shadow zone visualization  
-- `module_2_research_notes.txt`: Research notes  
-
+- `module_2_simulation.py`: Code for rendering approximate p and s waves 
 ### 📂 Module_3/
 - **Description:** Snell’s Law at the Core-Mantle Boundary  
-- `Solution_Module_3.pdf`: Final report  
-- `module_3_simulation.mp4`: Refraction simulation  
-- `module_3_refraction_diagram.jpg`: Refraction diagrams  
-- `module_3_theory.md`: Mathematical derivation details  
-
+- `Solution_Module_3.pdf`: Final report
 ### 📂 Module_4/ 
 - **Description:** Core Radius Calculation  
-- `Solution_Module_4.pdf`: Final report  
-- `module_4_density_model.csv`: Density estimates of Mars' interior  
-- `module_4_plot.png`: Core density visualization  
-
+- `Solution_Module_4.pdf`: Final report
 ### 📂 Module_5/ 
 - **Description:** Evidence for a Liquid Core  
-- `Solution_Module_5.pdf`: Final report  
-- `module_5_wave_velocity.ipynb`: Jupyter notebook for velocity calculations  
-- `module_5_simulation.mp4`: Animation of liquid core evidence  
-- `module_5_notes.docx`: Research notes  
-
+- `Solution_Module_5.pdf`: Final report
 ### 📂 Module_6/ 
 - **Description:** Machine Learning for Seismic Data  
 - `Solution_Module_6.pdf`: Final report  
@@ -43,27 +34,21 @@ This repository contains a structured collection of reports, simulations, animat
 - `module_6_results.json`: Model accuracy and predictions  
 
 ### 📂 Module_7/ 
-- **Description:** Wave Propagation Simulations  
-- `module_7_solution.pdf`: Final report  
-- `module_7_simulation.mp4`: Animation of wave propagation  
-- `module_7_high_res_model.png`: 3D model visualization  
-
+- **Description:** Predicting Core radius using reggression
+-  `model_comparison_results.csv`:FInal Results
+-  `module_7_code.ipynb`: Code for the obtained data  
 ### 📂 Module_8/ 
-- **Description:** Core Composition Analysis  
-- `module_8_solution.pdf`: Final report  
-- `module_8_experiment_log.txt`: Experiment notes  
-- `module_8_data.mat`: MATLAB data file for computations  
+- **Description:** Detecting Anomalies
+- `module-8.ipynb`: Final report for Anomaly deetection
 
 ### 📂 Module_9/ 
-- **Description:** Future Research and Theoretical Models  
+- **Description:** 3D simulation  
 - `module_9_future_scope.pdf`: Final report  
-- `module_9_model_predictions.csv`: Predictions for future studies  
-- `module_9_summary_presentation.pptx`: PowerPoint summary  
 
 ---
 
 ### Root Files:
-- `README.md`: Documentation to run the code
-- `structure.md`: This file  
+- `README.md`: Project Overview  
+- `File Structure.md`: This file  
 - `.gitignore`: Ignore unnecessary files  
-- `LICENSE`: Open-source license (optional)  
+- `Datasets.md`: Contains all the datasets used in the project 
